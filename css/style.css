@@ -442,6 +442,19 @@ img.position-absolute.rounded.wow.zoomIn {
 }
 /*End Number*/
 
+/* Start About */
+
+.navbar-about {
+    position: fixed;
+    background: #FFFFFF;
+    position: absolute;
+    padding-right: 3rem !important;
+    padding-left: 3rem !important
+}
+               
+
+/* End About */
+
 /*Start hotels-owned */
 .container-hotels-owned {
     background-color: #e7e2dd;
