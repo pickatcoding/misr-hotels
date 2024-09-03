@@ -564,7 +564,7 @@ progress {
     color: #6c757d
 }
 
-.container,.container-fluid,.container-sm,.container-md,.container-lg,.container-xl,.container-xxl {
+.container,.container-fluid,.container-sm,.container-md,.container-lg,.container-xl,.container-xxl,.container-fluid-ceo {
     width: 100%;
     padding-right: var(--bs-gutter-x, .75rem);
     padding-left: var(--bs-gutter-x, .75rem);
